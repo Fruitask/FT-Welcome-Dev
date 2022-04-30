@@ -16,7 +16,7 @@ Create a successful AJAX method, using JQUERY. On the PHP push your personal det
 
 
 ## Step 2
-Once you're done, you need to call your data only from the accounts.json and print in an index.html file and make a basic profile card UI
+Once you're done, you need to call your data only from the accounts.json using PHP and print in an index.html file and make a basic profile card UI
 using Tailwind CSS.
 
 ## Step 3
