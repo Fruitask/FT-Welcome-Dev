@@ -32,3 +32,6 @@ You need to pass this value as an object. (See the sample format below)
 ```
 
 That's it! We're done here! We will be notified by API when your request is accepted. Fruitask is a light JSON environment and used only Core PHP without any frameworks like Lavarel or JS libraries, well there's one.. we used JQUERY, most of the backend are all PHP using AJAX and Tailwind for CSS. We want to step up Fruitask with you. So we will see your work soon!
+
+## Short Summary
+Make a simple page that will load your account details using AJAX.. Then deliver the entire repo, by submitting it using API.. Done.
