@@ -2,7 +2,7 @@
 This is a basic greeting challenge for Fruitask Developer. The challenge is chunk of fritter.. no sweat! Just to understand the Fruitask environment and used programming language, we prefer to test your superstar's capabilities.
 
 ## Step 1
-Create a successful AJAX method, using JQUERY. On the PHP push your personal details in an array stored in accounts.json file. (see example)
+Create a successful AJAX method, using JQUERY. On the PHP push your personal details in an array stored in accounts.json file inside `data[]`. (see example format)
 ```
 "data": [
         {
@@ -22,7 +22,7 @@ Next, upload your completed codes on your Github and prepare the repository URL.
 ## Step 4
 Make a CURL or HTTP request using Fruitask API using CREATE method. Learn <a href="https://fruitask.com/developer/">here</a>.
 Use this test API ``2fe0e2cf6e158467dffac00e9c7d2704``, and BASE_ID ``R3lwYk1NV0JsaTNaa2J4dy9aaG9CWGNJeFRNR1lZWjkyMS9lMkxSRUt1Y3ZjT2RLT2hYMnpaVlZic2R2TUZKVjlOYlFESkdHRWJvPQ`` using METHOD ``&method=create:row`` and ``data`` for the values.
-You need to pass this value as an object. (See the sample below)
+You need to pass this value as an object. (See the sample format below)
 ``` 
 {
             "Email": "YOUR_EMAIL",
